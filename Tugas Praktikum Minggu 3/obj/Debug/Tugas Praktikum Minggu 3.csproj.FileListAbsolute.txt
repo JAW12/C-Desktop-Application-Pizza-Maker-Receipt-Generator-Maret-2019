@@ -1,0 +1,19 @@
+D:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\bin\Debug\Tugas Praktikum Minggu 3.exe.config
+D:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\bin\Debug\Tugas Praktikum Minggu 3.exe
+D:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\bin\Debug\Tugas Praktikum Minggu 3.pdb
+D:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas Praktikum Minggu 3.csprojAssemblyReference.cache
+D:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas_Praktikum_Minggu_3.Form1.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas_Praktikum_Minggu_3.Properties.Resources.resources
+D:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas Praktikum Minggu 3.csproj.GenerateResource.cache
+D:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas Praktikum Minggu 3.csproj.CoreCompileInputs.cache
+D:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas Praktikum Minggu 3.exe
+D:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas Praktikum Minggu 3.pdb
+E:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\bin\Debug\Tugas Praktikum Minggu 3.exe.config
+E:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\bin\Debug\Tugas Praktikum Minggu 3.exe
+E:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\bin\Debug\Tugas Praktikum Minggu 3.pdb
+E:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas Praktikum Minggu 3.csprojResolveAssemblyReference.cache
+E:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas_Praktikum_Minggu_3.Form1.resources
+E:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas_Praktikum_Minggu_3.Properties.Resources.resources
+E:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas Praktikum Minggu 3.csproj.GenerateResource.Cache
+E:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas Praktikum Minggu 3.exe
+E:\KULIAH STTS\SEMESTER 2\PV\PRAKTIKUM\L304\Minggu 3\Tugas Praktikum Minggu 3\Tugas Praktikum Minggu 3\obj\Debug\Tugas Praktikum Minggu 3.pdb
